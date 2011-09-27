@@ -2,7 +2,8 @@
 
 # Sorry, we've been not here yet.
 
-Anyway, don't panic, and when you're out of it, \[[write](https://github.com/42guide/42guide.github.com)\] about it here.
+Anyway, don't panic, and when you're out of it,
+[write](https://github.com/42guide/42guide.github.com) about it here. 
 
 
 
